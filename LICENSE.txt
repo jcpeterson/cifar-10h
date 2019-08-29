@@ -2,7 +2,7 @@ CIFAR-10H (also referred to as CIFAR10H) is an accompanying human
 label dataset for the 10,000-image test set of CIFAR-10,
 originally created as a new benchmark for object classification:
 
-    Peterson, J.*, Battleday, R.*, Russakovsky, O., & Griffiths, T. (2019). 
+    Peterson, J.*, Battleday, R.*, Griffiths, T., & Russakovsky, O. (2019). 
     Human uncertainty makes classification more robust.
     In Proceedings of the IEEE International Conference on Computer Vision.
     * equal contribution
