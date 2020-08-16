@@ -11,6 +11,8 @@ CIFAR-10H is a new dataset of soft labels reflecting human perceptual uncertaint
 
 `data/cifar10h-probs.npy` - `10000 x 10` numpy matrix containing normalized human classification counts (probabilities) for each image and class. These are the labels used for training and evaluation in the above paper.
 
+The order of the 10,000 labels matches the original CIFAR-10 test set order.
+
 #### TODO
 
 * Dataset statistics / summary
