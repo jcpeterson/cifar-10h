@@ -11,7 +11,7 @@ And more recently in:
 
 And:
 
-Singh, P., Peterson, [Joshua C. Peterson](https://twitter.com/joshuacpeterson), [Ruairidh M. Battleday](https://ruairidh.mycpanel.princeton.edu/), & [Thomas L. Griffiths](http://cocosci.princeton.edu/tom/index.php) (2020). End-to-end deep prototype and exemplar models for predicting human behavior. Proceedings of the 42nd Annual Conference of the Cognitive Science Society. ([preprint](https://arxiv.org/abs/2007.08723))
+Pulkit Singh, Peterson, [Joshua C. Peterson](https://twitter.com/joshuacpeterson), [Ruairidh M. Battleday](https://ruairidh.mycpanel.princeton.edu/), & [Thomas L. Griffiths](http://cocosci.princeton.edu/tom/index.php) (2020). End-to-end deep prototype and exemplar models for predicting human behavior. Proceedings of the 42nd Annual Conference of the Cognitive Science Society. ([preprint](https://arxiv.org/abs/2007.08723))
 
 #### Repository Contents
 
