@@ -2,16 +2,16 @@
 
 CIFAR-10H is a new dataset of soft labels reflecting human perceptual uncertainty for the 10,000-image [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) test set, first appearing in the paper:
 
-[Joshua C. Peterson](https://twitter.com/joshuacpeterson)\*, [Ruairidh M. Battleday](https://ruairidh.mycpanel.princeton.edu/)\*, [Thomas L. Griffiths](http://cocosci.princeton.edu/tom/index.php), & [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/) (2019). Human uncertainty makes classification more robust.
+> [Joshua C. Peterson](https://twitter.com/joshuacpeterson)\*, [Ruairidh M. Battleday](https://ruairidh.mycpanel.princeton.edu/)\*, [Thomas L. Griffiths](http://cocosci.princeton.edu/tom/index.php), & [Olga Russakovsky](https://www.cs.princeton.edu/~olgarus/) (2019). Human uncertainty makes classification more robust.
 *In Proceedings of the IEEE International Conference on Computer Vision.* ([preprint](https://arxiv.org/abs/1908.07086))
 
 And more recently in:
 
-[Ruairidh M. Battleday](https://ruairidh.mycpanel.princeton.edu/)\*, [Joshua C. Peterson](https://twitter.com/joshuacpeterson)\*, & [Thomas L. Griffiths](http://cocosci.princeton.edu/tom/index.php) (2020). Capturing human categorization of natural images by combining deep networks and cognitive models. ([preprint](https://arxiv.org/abs/1904.12690))
+> [Ruairidh M. Battleday](https://ruairidh.mycpanel.princeton.edu/)\*, [Joshua C. Peterson](https://twitter.com/joshuacpeterson)\*, & [Thomas L. Griffiths](http://cocosci.princeton.edu/tom/index.php) (2020). Capturing human categorization of natural images by combining deep networks and cognitive models. ([preprint](https://arxiv.org/abs/1904.12690))
 
 And:
 
-Pulkit Singh, [Joshua C. Peterson](https://twitter.com/joshuacpeterson), [Ruairidh M. Battleday](https://ruairidh.mycpanel.princeton.edu/), & [Thomas L. Griffiths](http://cocosci.princeton.edu/tom/index.php) (2020). End-to-end deep prototype and exemplar models for predicting human behavior. Proceedings of the 42nd Annual Conference of the Cognitive Science Society. ([preprint](https://arxiv.org/abs/2007.08723))
+> Pulkit Singh, [Joshua C. Peterson](https://twitter.com/joshuacpeterson), [Ruairidh M. Battleday](https://ruairidh.mycpanel.princeton.edu/), & [Thomas L. Griffiths](http://cocosci.princeton.edu/tom/index.php) (2020). End-to-end deep prototype and exemplar models for predicting human behavior. Proceedings of the 42nd Annual Conference of the Cognitive Science Society. ([preprint](https://arxiv.org/abs/2007.08723))
 
 #### Repository Contents
 
