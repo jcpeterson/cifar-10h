@@ -7,7 +7,7 @@ CIFAR-10H is a new dataset of soft labels reflecting human perceptual uncertaint
 
 And more recently in:
 
-> [Ruairidh M. Battleday](https://ruairidh.mycpanel.princeton.edu/)\*, [Joshua C. Peterson](https://twitter.com/joshuacpeterson)\*, & [Thomas L. Griffiths](http://cocosci.princeton.edu/tom/index.php) (2020). Capturing human categorization of natural images by combining deep networks and cognitive models. ([preprint](https://arxiv.org/abs/1904.12690))
+> [Ruairidh M. Battleday](https://ruairidh.mycpanel.princeton.edu/)\*, [Joshua C. Peterson](https://twitter.com/joshuacpeterson)\*, & [Thomas L. Griffiths](http://cocosci.princeton.edu/tom/index.php) (2020). Capturing human categorization of natural images by combining deep networks and cognitive models. *Nature Communications, 11*(1), 1-14. ([paper](https://www.nature.com/articles/s41467-020-18946-z))
 
 And:
 
